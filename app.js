@@ -319,7 +319,6 @@ var componenteAstral = () => {
 //Devuelve un String
 var distanciaAstral = () => {
     var distanciaRandom = Math.floor(Math.random() * 20) + 1;
-    distanciaRandom.toString();
     return `${distanciaRandom} millones de kilometros`;
 }
 //------------------------------------------FUNCION PRINCIPAL
